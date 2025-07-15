@@ -1,5 +1,8 @@
 # harvest_app
 
+## Build
+Run `flutter build apk` (for Android) or `flutter build ios` (for iOS).
+
 ## Todo
 ### Disable HTTP
 Currently, HTTPS is not available, only HTTP. So the following lines are added to enable it:
